@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PIXELPAWLABS (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PIXELPAWLABS (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
